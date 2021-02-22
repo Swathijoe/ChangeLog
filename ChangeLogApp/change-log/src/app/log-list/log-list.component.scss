@@ -1,0 +1,35 @@
+.pointer {
+  cursor: pointer;
+}
+.fix {
+  color: red;
+  font-weight: bold;
+}
+
+.update {
+  color: green;
+  font-weight: bold;
+}
+
+.newrelease {
+  color: blue;
+  font-weight: bold;
+}
+.pull-right {
+  float: right;
+  top: 5px;
+}
+
+.margin {
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+.header-text {
+  margin-left: 10px;
+}
+
+/* Thick red border */
+hr.new4 {
+  border: 1px solid blue;
+  margin-bottom: 30px;
+}
